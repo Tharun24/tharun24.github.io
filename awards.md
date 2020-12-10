@@ -5,7 +5,7 @@ permalink: /awards/
 ---
 
 ### Scholarships
-Ken Kennedy Institute BP Felloship: _Aug 2020 - May 2021_ <br/>
+Ken Kennedy Institute BP Fellowship: _Aug 2020 - May 2021_ <br/>
 American Society of Indian Engineers Scholarship: 2019 <br/>
 Rice Graduate Fellowship:  _Aug 2016 - May 2018_ <br/>
 IIT Bombay MCM Scholarship: _Aug 2011 - May 2015_ 
