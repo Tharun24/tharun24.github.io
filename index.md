@@ -5,13 +5,14 @@ published: true
 
 I am a senior PhD student in the Electrical and Computer Engineering Department, Rice University. I work with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) in the [RUSHLAB](https://rushlab.blogs.rice.edu/). My primary research area is Extreme Scale Deep Learning using Randomized Hashing methods.
 
-I previously interned as an *Applied Scientist* at **Amazon Search**, Palo Alto from *May 2018 - Aug 2019* and again during *May 2020 - Aug 2020*. I worked on a myriad of problems like query to product prediction, super-fast reformulation for zero result queries, query-category prediction and fast approximate nearest neighbor search. My paper **Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products** in conjunction with Amazon got published at **NeurIPS 2019**. 
+I previously interned as an *Applied Scientist* at **Amazon Search**, Palo Alto from *May 2018 - Aug 2019* and again during *May 2020 - Aug 2020*. I worked on a myriad of problems like query to product prediction, super-fast reformulation for zero result queries, query-category prediction and fast approximate nearest neighbor search.
 
 I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2015) from [Indian Institute of Technology, Bombay](http://www.iitb.ac.in).
 
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### Updates:
+* Our paper *SOLAR: Sparse Orthogonal Learned and Random Embeddings* was accepeted to **ICLR 2021**. [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ)
 * Received the Ken Kennedy Institute BP Fellowship for 2020-21.
 * We presented our paper *SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems* at **MLSys 2020**, Austin. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`](https://github.com/keroro824/HashingDeepLearning)
 * We presented our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**, Vancouver. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ) [`package`](https://github.com/Tharun24/MACH/)

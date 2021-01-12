@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+### 2021
+1. _SOLAR : Sparse Orthogonal Learned and Random Embeddings_ [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) <br/>
+__Tharun Medini__, Beidi Chen and Anshumali Shrivastava. <br/>
+International Conference on Learning Representations __(ICLR)__ 2021. <br/>
 
 ### 2020
 1. _SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems_ [`pdf`](https://proceedings.mlsys.org/papers/2020/105) <br/>
