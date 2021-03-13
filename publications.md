@@ -8,6 +8,9 @@ permalink: /publications/
 __Tharun Medini__, Beidi Chen and Anshumali Shrivastava. <br/>
 International Conference on Learning Representations __(ICLR)__ 2021. <br/>
 
+2. _Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
+Gaurav Gupta, Minghao Yan, Benjamin Coleman, Bryce Kille, R.A.Leo Elworth, __Tharun Medini__, Todd Treangen and Anshumali Shrivastava. <br/>
+
 ### 2020
 1. _SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems_ [`pdf`](https://proceedings.mlsys.org/papers/2020/105) <br/>
 Beidi Chen, __Tharun Medini__ , James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava. <br/>
@@ -34,5 +37,4 @@ Under Review at CVPR 2020. <br/>
 
 ### Pre-prints
 
-1. _RAMBO: Repeated And Merged BloOm Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
-Gaurav Gupta, Benjamin Coleman, __Tharun Medini__, Vijai Mohan and Anshumali Shrivastava. <br/>
+1. 
