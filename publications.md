@@ -10,6 +10,7 @@ International Conference on Learning Representations __(ICLR)__ 2021. <br/>
 
 2. _Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
 Gaurav Gupta, Minghao Yan, Benjamin Coleman, Bryce Kille, R.A.Leo Elworth, __Tharun Medini__, Todd Treangen and Anshumali Shrivastava. <br/>
+__SIGMOD__ International Conference on Management of Data 2021. <br/>
 
 ### 2020
 1. _SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems_ [`pdf`](https://proceedings.mlsys.org/papers/2020/105) <br/>
