@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### 2021
-1. _SOLAR : Sparse Orthogonal Learned and Random Embeddings_ [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) <br/>
+1. _SOLAR : Sparse Orthogonal Learned and Random Embeddings_ [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) [`poster`](https://tharun24.github.io/SOLAR/SOLAR_poster.pptx) <br/>
 __Tharun Medini__, Beidi Chen and Anshumali Shrivastava. <br/>
 International Conference on Learning Representations __(ICLR)__ 2021. <br/>
 
