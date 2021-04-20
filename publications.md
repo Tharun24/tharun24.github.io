@@ -37,5 +37,5 @@ Under Review at CVPR 2020. <br/>
 [Visually Grounded Interaction and Language (ViGIL) Workshop](https://vigilworkshop.github.io/) at NeurIPS 2019.
 
 ### Pre-prints
-
-1. 
+1. _IRLI:Iterative Re-partitioning for Learning to Index_ [`pdf`](https://arxiv.org/pdf/2103.09944.pdf) <br/>
+__Tharun Medini__, Gaurav Gupta and Anshumali Shrivastava.
