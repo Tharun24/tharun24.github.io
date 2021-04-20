@@ -12,7 +12,7 @@ I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### Updates:
-* Our paper *SOLAR: Sparse Orthogonal Learned and Random Embeddings* was accepted to **ICLR 2021**. [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) [`poster`](https://tharun24.github.io/SOLAR/SOLAR_poster.pdf)
+* Our paper *SOLAR: Sparse Orthogonal Learned and Random Embeddings* was accepted to **ICLR 2021**. [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) [`poster`](https://tharun24.github.io/SOLAR/SOLAR_ICLR_poster.pdf)
 * Our paper *Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)* was accepted to **SIGMOD 2021**.
 * Received the __Ken Kennedy Institute BP Fellowship__ for 2020-21.
 * We presented our paper *SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems* at **MLSys 2020**, Austin. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`](https://github.com/keroro824/HashingDeepLearning)
