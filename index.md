@@ -9,11 +9,13 @@ I previously interned as an *Applied Scientist* at **Amazon Search**, Palo Alto 
 
 I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2015) from [Indian Institute of Technology, Bombay](http://www.iitb.ac.in).
 
-Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
+Here is my [`resume`](https://tharun24.github.io/miscellaneous/Resume.pdf).
 
 ### Updates:
+* Our paper *A Tale of Two Efficient and Informative Negative Sampling Distributions* was accepted for a **long talk** at **ICML 2021**.
 * Our paper *SOLAR: Sparse Orthogonal Learned and Random Embeddings* was accepted to **ICLR 2021**. [`pdf`](https://openreview.net/pdf?id=fw-BHZ1KjxJ) [`poster`](https://tharun24.github.io/SOLAR/SOLAR_ICLR_poster.pdf)
 * Our paper *Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)* was accepted to **SIGMOD 2021**.
+* Our paper *SDM-Net: A Simple and Effective Model for Generalized Zero-Shot Learning* was accepted to **UAI 2021**.
 * Received the __Ken Kennedy Institute BP Fellowship__ for 2020-21.
 * We presented our paper *SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems* at **MLSys 2020**, Austin. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`](https://github.com/keroro824/HashingDeepLearning)
 * We presented our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**, Vancouver. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ) [`package`](https://github.com/Tharun24/MACH/)
@@ -33,4 +35,4 @@ Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 * Spotlight talk at Systems for ML workshop at NeurIPS 2019 on *SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU*. [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`package`](https://github.com/keroro824/HashingDeepLearning)
 * 'Intro to Actor-Critic Methods and Imitation in Deep Reinforcement Learning' at Houston ML Meetup, University of Houston on Dec 7th.
 * 'Intro to Imitation Learning' at Schlumberger, Katy, TX on Nov 19th.
-* *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)  [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf)
+* *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)  [`pdf`](https://tharun24.github.io/miscellaneous/AAAI_Imitation.pdf)

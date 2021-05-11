@@ -8,9 +8,17 @@ permalink: /publications/
 __Tharun Medini__, Beidi Chen and Anshumali Shrivastava. <br/>
 International Conference on Learning Representations __(ICLR)__ 2021. <br/>
 
-2. _Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
+2. _A Tale of Two Efficient and Informative Negative Sampling Distributions_ <br/>
+Shabnam Daghaghi, __Tharun Medini__, Beidi Chen, Mengnan Zhao, Nicholas Meisburger and Anshumali Shrivastava. <br/>
+__ICML (Oral/Long Talk)__ International Conference on Machine Learning 2021. <br/>
+
+3. _Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
 Gaurav Gupta, Minghao Yan, Benjamin Coleman, Bryce Kille, R.A.Leo Elworth, __Tharun Medini__, Todd Treangen and Anshumali Shrivastava. <br/>
 __SIGMOD__ International Conference on Management of Data 2021. <br/>
+
+4. _SDM-Net: A Simple and Effective Model for Generalized Zero-Shot Learning_ <br/>
+Shabnam Daghaghi, __Tharun Medini__ and Anshumali Shrivastava. <br/>
+__UAI__ Uncertainty in Artificial Intelligence 2021. <br/>
 
 ### 2020
 1. _SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems_ [`pdf`](https://proceedings.mlsys.org/papers/2020/105) <br/>
@@ -23,7 +31,7 @@ Spotlight talk in [MLSys: Systems for ML Workshop](http://learningsys.org/neurip
 __Tharun Medini__, Qixuan Huang, Yiqiu Wang, Vijai Mohan and Anshumali Shrivastava. <br/>
 Neural Information Processing Systems __(NeurIPS)__ 2019. [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ) [`package`](https://github.com/Tharun24/MACH/)
 
-2. _Be a Copycat: Uncharted Rewards by Mimicking Expert Action Sequences_ [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf) <br/>
+2. _Be a Copycat: Uncharted Rewards by Mimicking Expert Action Sequences_ [`pdf`](https://tharun24.github.io/miscellaneous/AAAI_Imitation.pdf) <br/>
 __Tharun Medini__ and Anshumali Shrivastava <br/>
 ['Deep Reinforcement Learning Workshop'](https://sites.google.com/view/deep-rl-workshop-neurips-2019/home) at NeurIPS 2019. 
 
